@@ -1,4 +1,4 @@
-﻿丨央视道,#流派#
+﻿央视道,#流派#
 CCTV-01测试,http://tvpull.dxhmt.cn/tv/11481-4.m3u8
 CCTV-01测试,http://live.gxrb.com.cn/tv/gxtvlive03/index.m3u8
 CCTV01测试,,https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225942/index.m3u8
@@ -23,7 +23,7 @@ CCTV15，稳定http://111.13.111.242/000000001000PLTV/88888888/224/3221236203/1.
 CCTV16稳定，https://live.goodiptv.club/api/bestv.php?id=cctv16hd4k/15000000
 CCTV17稳定,http://111.13.111.242/000000001000PLTV/88888888/224/3221236190/1.m3u8?HlsProfileId
 
-﻿丨卫视频道,#genre#
+﻿丨卫视频道,#流派#
 
 山东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226209/index.m3u8
 
