@@ -1,4 +1,4 @@
-丨央视频道，#流派#
+﻿丨央视频道,#genre#
 CCTV-01测试,http://tvpull.dxhmt.cn/tv/11481-4.m3u8
 CCTV-01测试,http://live.gxrb.com.cn/tv/gxtvlive03/index.m3u8
 CCTV01测试,,https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225942/index.m3u8
